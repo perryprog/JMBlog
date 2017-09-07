@@ -16,6 +16,7 @@ We don't like rules much, so let's keep it simple:
 
 #### JustCreative
 - Hacked clients are fine! But don't cheat with them, abuse their powers, etc. Also disable them in minigames.
+- Only Creators+ Can go in freebuild. End of story, no exceptions.
 
 
 #### JustSurvival
