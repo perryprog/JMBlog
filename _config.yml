@@ -8,8 +8,8 @@ email: perry@frasers.org
 author: Perry Fraser
 description: >
   JustMinecraft is a Creative and Survival server. Nothing else.
-baseurl: "/JMBlog"
-url: "" # the base hostname & protocol for your site, e.g. http://example.com (Do I need to use this?)
+baseurl: ""
+url: "www.justminecraft.net" # the base hostname & protocol for your site, e.g. http://example.com (Do I need to use this?)
 twitter_username: apachicraft
 discord_link: https://discord.gg/9yVPbah
 permalink: /:title
