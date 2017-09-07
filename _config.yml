@@ -7,8 +7,7 @@ title: The JustMinecraft Blog
 email: perry@frasers.org
 author: Perry Fraser
 description: >
-  TODO: This is a description, foo bar foo yay
-  some longer text, wrapping Lorem, ipsum dolor sit amet consectetur adipisicing elit. Alias consequuntur rerum reprehenderit illum. Nostrum, minus molestiae, voluptatum dolorem quo quos aspernatur distinctio odit qui, repudiandae enim praesentium in dolores unde?
+  JustMinecraft is a Creative and Survival server. Nothing else.
 baseurl: "/JMBlog"
 url: "" # the base hostname & protocol for your site, e.g. http://example.com (Do I need to use this?)
 twitter_username: apachicraft
