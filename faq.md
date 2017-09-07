@@ -17,7 +17,7 @@ Simple! All you need to do is add `justminecraft.net` to your server list. If yo
 
 - On JustCreative (`/creative`) ranking is really simple. Just type `/warp rankinfo` or `/spawn` and go up the staircase behind you. The formula is basically: place blocks + play time = rankup = more commands. You cannot rankup through money, you can only do it through hard work :). You can view your current progress with `/rank`, and you can see all the ranks with `/ranks`.
 
-- On JustSurvival (`/survival`) ranking is even simpler. Type `/ranks` to view all the ranks, and `/rank` to see your current progress. You can earn more points by playing the game, and everytime you rankup you can `/sethome` two more homes. To vote type `/vote` and follow the links.
+- On JustSurvival (`/survival`) ranking is even simpler. Type `/ranks` to view all the ranks, and `/rank` to see your current progress. You can earn more points by playing the game, and every time you rankup you can `/sethome` two more homes. To vote type `/vote` and follow the links.
 
 <br>
 
