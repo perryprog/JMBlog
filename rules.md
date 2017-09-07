@@ -31,7 +31,7 @@ We don't like rules much, so let's keep it simple:
 
 To contact us you can
 
-- [Lorem ipsum dolor](example.com)
-- [sit amet consectetur, adipisicing elit.](example.com)
-- [Autem eaque possimus sapiente, excepturi minus neque eum dolores consectetur architecto](example.com)
-- [consequatur magnam rerum quasi ipsam veritatis accusamus! Modi accusamus repellat vero!](example.com)
+- [Lorem ipsum dolor](http://example.com)
+- [sit amet consectetur, adipisicing elit.](http://example.com)
+- [Autem eaque possimus sapiente, excepturi minus neque eum dolores consectetur architecto](http://example.com)
+- [consequatur magnam rerum quasi ipsam veritatis accusamus! Modi accusamus repellat vero!](http://example.com)
