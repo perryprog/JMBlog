@@ -19,7 +19,7 @@ We don't like rules much, so let's keep it simple:
 
 
 #### JustSurvival
-- Hacked client aren't fine ):, One warning, then a three day ban to a perma ban depending on the severity of the offense
+- Hacked clients are not OK, One warning, then a three day ban to a perma ban depending on the severity of the offense
 - X-Ray is considered cheating, and has the same consequences as the bullet above.
 
 
