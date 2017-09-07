@@ -16,7 +16,7 @@
 title: The JustMinecraft Blog
 email: your-email@example.com
 description: > # this means to ignore newlines until "baseurl:"
-  TODO: FIXME PLEASE (tmp vnum: 2)
+  TODO: FIXME PLEASE (tmp vnum: 3)
 baseurl: "/JMWeb" # the subpath of your site, e.g. /blog
 url: "https://perryprog.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: apachicraft
