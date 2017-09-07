@@ -1,13 +1,3 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-
 # Site settings
 # These are used to personalize your new site. If you look in the HTML files,
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
@@ -16,12 +6,12 @@
 title: The JustMinecraft Blog
 email: perry@frasers.org
 author: Perry Fraser
-description: > # this means to ignore newlines until "baseurl:"
+description: >
   TODO: This is a description, foo bar foo yay
-baseurl: "/JMBlog" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+  some longer text, wrapping Lorem, ipsum dolor sit amet consectetur adipisicing elit. Alias consequuntur rerum reprehenderit illum. Nostrum, minus molestiae, voluptatum dolorem quo quos aspernatur distinctio odit qui, repudiandae enim praesentium in dolores unde?
+baseurl: "/JMBlog"
+url: "" # the base hostname & protocol for your site, e.g. http://example.com (Do I need to use this?)
 twitter_username: apachicraft
-# github_username:  jekyll
 
 permalink: /:title
 
@@ -30,15 +20,3 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
-
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
