@@ -8,14 +8,13 @@ We don't like rules much, so let's keep it simple:
 
 #### General
 - Cursing is fine, but by default there is a chat filter. You can toggle it with `/nofilter`
-- Abuse: it is not tolerated, and can result in a mute after one warning
-- Threats: similar to abuse, it's also not tolerated. Smaller things, like telling someone that they are stupid/jerks/other things can result in a one hour mute, ruder things like telling someone to "kill themselves", "drink bleach", etc. can result in a once day ban. Threatening to kill someone, or DDOS them, or related will be a permaban.
+- Abuse: It is not tolerated, and can result in a mute after one warning, and escalate from there. This includes threats, profane insults, having the intention to annoy or make someone angry, being sadistic, and talking about controversial topics without minding other's opinions and experiences. Overall, be respectful and generally kind.
+- Common Sense: Just have some common sense. Please.
 - Griefing: surprise, it's not allowed! Depending on the severity, you will get a warning → one to three day ban → perma ban
 - Inappropriate skins aren't allowed. You will get a warning → kick → one day ban (until you change your skin)
 
 
 #### JustCreative
-- Hacked clients are fine! But don't cheat with them, abuse their powers, etc. Also disable them in minigames.
 - Only Creators+ Can go in freebuild. End of story, no exceptions.
 
 
