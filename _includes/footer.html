@@ -18,7 +18,7 @@
             <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
             {% endif %}
             <li>
-                &copy; 2017 All Rights Reserved
+                &copy;&nbsp;{{ site.time | date: '%Y' }} All Rights Reserved
             </li>
         </ul>
       </div>
@@ -38,7 +38,7 @@
           {% endif %}
 
           <li>
-            {% include icon-discord.html link='https://discord.gg/9yVPbah' %}
+            {% include icon-discord.html link=site.discord_link %}
           </li>
         </ul>
       </div>

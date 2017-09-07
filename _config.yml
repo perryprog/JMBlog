@@ -11,7 +11,7 @@ description: >
 baseurl: "/JMBlog"
 url: "" # the base hostname & protocol for your site, e.g. http://example.com (Do I need to use this?)
 twitter_username: apachicraft
-
+discord_link: https://discord.gg/9yVPbah
 permalink: /:title
 
 # Build settings
