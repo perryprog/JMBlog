@@ -25,4 +25,4 @@ Just Survival throws you into grief-free vanilla Minecraft across 3 worlds. The 
 <br>
 
 #### Donations!!
-Are you awesome? Do you want to donate? [Then donate here!](https://justminecraft.buycraft.net) You'll get a nice + next to your name! And the satisfaction that your supporting the server! Yeah!
+Are you awesome? Do you want to donate? [Then donate here!](https://justminecraft.buycraft.net) You'll get a nice span <span style="color: gold;">+</span> next to your name! And the satisfaction that your supporting the server! Yeah!
