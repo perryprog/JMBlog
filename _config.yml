@@ -14,6 +14,8 @@ twitter_username: apachicraft
 discord_link: https://discord.gg/9yVPbah
 permalink: /:title
 
+google_analytics: UA-87778801-2
+
 # Build settings
 markdown: kramdown
 theme: minima
