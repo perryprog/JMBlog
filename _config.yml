@@ -20,4 +20,4 @@ theme: minima
 plugins:
   - jekyll-feed
 
-exclude: [vendor]
+exclude: [vendor, README.md, Gemfile, Gemfile.lock, CNAME, script]
