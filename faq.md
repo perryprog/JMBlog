@@ -22,7 +22,7 @@ Simple! All you need to do is add `justminecraft.net` to your server list. If yo
 <br>
 
 #### **Q:** How do I vote?
-#### **A:** `/vote`
+#### **A:** `/vote` (JustSurvival only) If you really want to vote for JustCreative, [go here](http://minecraft-mp.com/server-s145407).
 
 <br>
 
