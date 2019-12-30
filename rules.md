@@ -9,6 +9,8 @@ We don't like rules much, so let's keep it simple:
 #### General
 - Cursing is fine, but by default there is a chat filter. You can toggle it with `/nofilter`
 - Abuse: It is not tolerated, and can result in a mute after one warning, and escalate from there. This includes threats, profane insults, having the intention to annoy or make someone angry, being sadistic, and talking about controversial topics without minding other's opinions and experiences. Overall, be respectful and generally kind.
+- No spamming or excessive caps, it makes chat harder to read.
+- No advertising other minecraft or discord servers.
 - Common Sense: Just have some common sense. Please.
 - Griefing: surprise, it's not allowed! Depending on the severity, you will get a warning → one to three day ban → perma ban
 - Inappropriate skins aren't allowed. You will get a warning → kick → one day ban (until you change your skin)
@@ -21,6 +23,8 @@ We don't like rules much, so let's keep it simple:
 #### JustSurvival
 - Hacked clients are not OK, One warning, then a three day ban to a perma ban depending on the severity of the offense
 - X-Ray is considered cheating, and has the same consequences as the bullet above.
+- Killing is allowed, and so is combat-logging.
+- If you /trust a player, you are taking responsibility for their actions.
 
 
 ### Banned?
