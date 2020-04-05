@@ -26,6 +26,7 @@ We don't like rules much, so let's keep it simple:
 - X-Ray is considered cheating, and has the same consequences as the bullet above.
 - Killing is allowed, but frowned upon, and so is combat-logging.
 - If you /trust a player, you are taking responsibility for their actions, including if they ruin your base. A moderator may help you find out who griefed you, and may punish them, but your base will not be restored to normal.
+- There are no grief protections on the main end island (the one with the dragon), do not build anything important there
 
 
 ### Banned?
