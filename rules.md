@@ -7,7 +7,7 @@ permalink: /rules
 We don't like rules much, so let's keep it simple:
 
 #### General
-- Cursing is fine, but by default there is a chat filter. You can toggle it with `/nofilter`
+- Cursing is fine, but a chat filter may be turned on my default. You can toggle it with `/nofilter`
 - Abuse: It is not tolerated, and can result in a mute after one warning, and escalate from there. This includes threats, profane insults, having the intention to annoy or make someone angry, being sadistic, and talking about controversial topics without minding other's opinions and experiences. Overall, be respectful and generally kind.
 - No racism
 - No spamming or excessive caps, it makes chat harder to read.
