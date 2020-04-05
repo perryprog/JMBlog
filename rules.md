@@ -13,7 +13,7 @@ We don't like rules much, so let's keep it simple:
 - No spamming or excessive caps, it makes chat harder to read.
 - No advertising other minecraft or discord servers.
 - Common Sense: Just have some common sense. Please.
-- Griefing: surprise, it's not allowed! Depending on the severity, you will get a warning → one to three day ban → perma ban
+- Griefing: surprise, it's not allowed! Depending on the severity, you will get a warning → one to three day ban → seven day → perma ban
 - Inappropriate skins aren't allowed. You will get a warning → kick → one day ban (until you change your skin)
 
 
@@ -22,10 +22,10 @@ We don't like rules much, so let's keep it simple:
 
 
 #### JustSurvival
-- Hacked clients are not OK, One warning, then a three day ban to a perma ban depending on the severity of the offense
+- Hacked clients are not OK, one warning, then a one day, seven day, then a perm ban. (Hacked clients are any clients that have been modified to provide an unfair gameplay advantage)
 - X-Ray is considered cheating, and has the same consequences as the bullet above.
-- Killing is allowed, and so is combat-logging.
-- If you /trust a player, you are taking responsibility for their actions.
+- Killing is allowed, but frowned upon, and so is combat-logging.
+- If you /trust a player, you are taking responsibility for their actions, including if they ruin your base. A moderator may help you find out who griefed you, and may punish them, but your base will not be restored to normal.
 
 
 ### Banned?
