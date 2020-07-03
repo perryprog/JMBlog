@@ -24,7 +24,7 @@ We don't like rules much, so let's keep it simple:
 #### JustSurvival
 - Hacked clients are not OK, one warning, then a one day, seven day, then a perm ban. (Hacked clients are any clients that have been modified to provide an unfair gameplay advantage)
 - X-Ray is considered cheating, and has the same consequences as the bullet above.
-- Killing is allowed, but frowned upon, and so is combat-logging.
+- Killing is allowed, but frowned upon. Combat-logging is also allowed.
 - If you /trust a player, you are taking responsibility for their actions, including if they ruin your base. A moderator may help you find out who griefed you, and may punish them, but your base will not be restored to normal.
 - There are no grief protections on the main end island (the one with the dragon), do not build anything important there
 
