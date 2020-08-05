@@ -7,9 +7,20 @@ permalink: /rules
 We don't like rules much, so let's keep it simple:
 
 #### General
+- We do not tolerate harassment. Harassment includes, but is not limited to:
+  - offensive or discriminatory comments, pictures or videos related to:
+    - gender (including identity, history or expression)
+    - sexual orientation
+    - disability
+    - physical appearance
+    - race
+    - religion
+  - sexual images and languages in public spaces
+  - stalking
+  - unwelcome sexual attention
+  - calls for violence against members
+  - inciting members to violence or self-harm
 - Cursing is fine, but a chat filter may be turned on my default. You can toggle it with `/nofilter`
-- Abuse: It is not tolerated, and can result in a mute after one warning, and escalate from there. This includes threats, profane insults, having the intention to annoy or make someone angry, being sadistic, and talking about controversial topics without minding other's opinions and experiences. Overall, be respectful and generally kind.
-- No racism or any form of discrimination
 - No spamming or excessive caps, it makes chat harder to read.
 - No advertising other minecraft or discord servers.
 - Voice chat is not moderated. Use at your own risk.
@@ -23,7 +34,7 @@ We don't like rules much, so let's keep it simple:
 
 
 #### JustSurvival
-- Hacked clients are not OK, one warning, then a one day, seven day, then a perm ban. (Hacked clients are any clients that have been modified to provide an unfair gameplay advantage)
+- Hacked clients are not OK, one warning, then a one day, seven day, and finally a perm ban. (Hacked clients are any clients that have been modified to provide an unfair gameplay advantage)
 - X-Ray is considered cheating, and has the same consequences as the bullet above.
 - Killing is allowed, but frowned upon. Combat-logging is also allowed.
 - If you /trust a player, you are taking responsibility for their actions, including if they ruin your base. A moderator may help you find out who griefed you, and may punish them, but your base will not be restored to normal.
