@@ -25,8 +25,9 @@ We don't like rules much, so let's keep it simple:
 - No advertising other minecraft or discord servers.
 - Voice chat is not moderated. Use at your own risk.
 - Common Sense: Just have some common sense. Please.
-- Griefing: surprise, it's not allowed! Depending on the severity, you will get a warning → one to three day ban → seven day → perma ban
+- Griefing: surprise, it's not allowed!
 - Inappropriate skins or usernames aren't allowed. You will get a warning → kick → one day ban (until you change your skin/username)
+- Failure to follow these rules will result in a warning → a mute → one day ban → 7 day ban → perm ban, unless otherwise specified
 
 
 #### JustCreative
