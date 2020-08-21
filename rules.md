@@ -4,7 +4,7 @@ title: Rules
 permalink: /rules
 ---
 
-We don't like rules much, so let's keep it simple:
+We don't like rules much, so just use common sense and we won't need to use them:
 
 #### General
 - We do not tolerate harassment. Harassment includes, but is not limited to:
