@@ -32,7 +32,7 @@ We don't like rules much, so just use common sense and we won't need to use them
 
 #### JustCreative
 - Only Creators+ Can go in freebuild. End of story, no exceptions.
-- Inappropriate plots will be modified to make them appropriate. Multiple violations will lead to further inappropriate plots being locked, and the player losing access to claiming new plots.
+- Inappropriate plots will be modified to make them more appropriate. Multiple violations will lead to further inappropriate plots being locked, and the player losing access to claiming new plots.
 
 
 #### JustSurvival
