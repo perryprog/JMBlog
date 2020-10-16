@@ -8,8 +8,8 @@ We don't like rules much, so just use common sense and we won't need to use them
 
 #### General
 - We do not tolerate harassment. Harassment includes, but is not limited to:
-  - offensive or discriminatory comments, pictures or videos related to:
-    - gender (including identity, history or expression)
+  - offensive or discriminatory comments, pictures, or videos related to:
+    - gender (including identity, history, or expression)
     - sexual orientation
     - disability
     - physical appearance
