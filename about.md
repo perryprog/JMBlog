@@ -20,6 +20,9 @@ Our plots also have a unique minigame system, allowing you to build your own min
 #### **Just Survival:**
 Just Survival throws you into grief-free vanilla Minecraft across multiple worlds. The Survival rank system depends on time played, players killed and time survived, allowing you to reach the highest rank simply by surviving. As you rank up you will be awarded with more homes and other perks to keep the game fun.
 
+#### **Just Parkour:**
+Just Parkour is an infinite parkour runner with a unique campaign mode. Achieve higher scores in the infinite parkour to unlock more campaign levels. A top 10 leaderboard is available for you to compete with the rest of the players.
+
 ---
 
 <br>
