@@ -43,6 +43,12 @@ We don't like rules much, so just use common sense and we won't need to use them
 - There are no grief protections on the main end island (the one with the dragon), do not build anything important there
 
 
+#### JustMinigames
+JustMinigames includes JustMinecraft minigames such as Switch and Bedwars.
+- Cheating is not allowed. If you cheat, you will be banned without a warning. Cheating includes using a modified client to gain an unfair advantage over other players.
+- Teaming is not allowed. If you are not in the same team as another player, you mustn't work together to gain an advantage over other players.
+
+
 ### Banned?
 
 To appeal your ban you can
