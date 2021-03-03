@@ -25,7 +25,7 @@ We don't like rules much, so just use common sense and we won't need to use them
 - No advertising other minecraft or discord servers.
 - Voice chat is not moderated. Use at your own risk.
 - Common Sense: Just have some common sense. Please.
-- Griefing: surprise, it's not allowed! (Griefing is ruining another's hard work, such as destroying their build or stealing their hard-earned items)
+- Griefing: surprise, it's not allowed and won't be tolerated! Think about how they would feel if you stole their hard-earned items or messed up their base.
 - Inappropriate skins or usernames aren't allowed. You will get a warning → kick → one day ban (until you change your skin/username)
 - Failure to follow these rules will generally result in a warning → a mute → one day ban → 7 day ban → perm ban, unless otherwise specified
 
