@@ -44,9 +44,14 @@ We don't like rules much, so just use common sense and we won't need to use them
 
 
 #### JustMinigames
-JustMinigames includes JustMinecraft minigames such as Switch and Bedwars.
+JustMinigames includes JustMinecraft minigames such as Parkour and Bedwars.
 - Cheating is not allowed. If you cheat, you will be banned without a warning. Cheating includes using a modified client to gain an unfair advantage over other players.
 - Teaming is not allowed. If you are not in the same team as another player, you mustn't work together to gain an advantage over other players.
+
+
+#### JustAnarchy
+- No rules apply to this server, you are free to do as you please.
+- Remember to follow the rules when you join other servers.
 
 
 ### Banned?
