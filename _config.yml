@@ -10,7 +10,7 @@ description: >
   JustMinecraft is just a Creative and Survival server. Nothing else.
 baseurl: ""
 url: "www.justminecraft.net" # the base hostname & protocol for your site, e.g. http://example.com (Do I need to use this?)
-twitter_username: apachicraft
+twitter_username: JustMCNetwork
 discord_link: https://discord.gg/9yVPbah
 permalink: /:title
 
