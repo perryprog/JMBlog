@@ -60,5 +60,5 @@ JustMinigames includes JustMinecraft minigames such as Parkour and Bedwars.
 To appeal your ban you can
 
 - Open a ticket in #appeal-your-bans-here on [discord]({{ site.discord_link }}), and one of our mods will respond to you.
-- DM us on [twitter](https://twitter.com/{{ site.twitter_username }}), and our admin greenteacups will gett back to you.
+- DM us on [twitter](https://twitter.com/{{ site.twitter_username }}), and our admin greenteacups will get back to you.
 - Send a message to greenteacups on [Planet Minecraft](https://www.planetminecraft.com/server/just-creative/)
