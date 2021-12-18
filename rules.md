@@ -42,6 +42,7 @@ We don't like rules much, so just use common sense and we won't need to use them
 - If you /trust a player, you are taking responsibility for their actions, including if they ruin your base. A moderator may help you find out who griefed you, and may punish them, but your base will not be restored to normal.
 - There are no grief protections on the main end island (the one with the dragon), do not build anything important there
 - Use caution when building above someone's base, as it may count as griefing and be removed. This will be up to the base owner.
+- Duping items is never allowed. If you are caught duping, you are subject to an immediate perm ban if necessary to prevent items from entering circulation in the economy. If you are given a suspicious amount of rare items, report it with /report.
 
 
 #### JustMinigames
