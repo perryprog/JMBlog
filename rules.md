@@ -26,7 +26,7 @@ We don't like rules much, so just use common sense and we won't need to use them
 - Voice chat is not moderated. Use at your own risk.
 - Common Sense: Just have some common sense. Please.
 - Griefing: surprise, it's not allowed and won't be tolerated! Griefing includes, but is not limited to, stealing one's items or making a mess of one's base. If someone has to clean up after you, it's griefing.
-- Inappropriate skins or usernames aren't allowed. You will get a warning → kick → one day ban (until you change your skin/username)
+- Inappropriate skins or usernames aren't allowed. This includes usernames/skins that impersonate someone else. You will get a warning → kick → one day ban (until you change your skin/username)
 - Failure to follow these rules will generally result in a warning → a mute → one day ban → 7 day ban → perm ban, unless otherwise specified
 
 
